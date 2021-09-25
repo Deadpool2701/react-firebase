@@ -12,7 +12,7 @@
 1. Clone the project repository:
    `git clone https://github.com/Deadpool2701/react-firebase`
 
-2. Navigate to the project folder: `cd react-firechat`
+2. Navigate to the project folder: `cd react-firebase`
 
 3. Install the dependencies: `npm install`
 
