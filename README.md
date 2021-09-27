@@ -3,7 +3,7 @@ This is just the first version with basic features but I'll try to update and ad
 
 Hope you enjoy using it and feel free to contact me regarding any doubts or questions you might have on deadpool012002@gmail.com
 
-Link to the WebApp - `https://6151994e6188b58732e16853--condescending-brown-c32d40.netlify.app/`
+Link to the WebApp - https://6151994e6188b58732e16853--condescending-brown-c32d40.netlify.app/
 
 
 - `start`: Runs the app in the development mode.
