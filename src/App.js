@@ -151,7 +151,7 @@ function App() {
         className="flex-shrink-0 flex items-center justify-between px-4 sm:px-8 shadow-md"
         style={{ height: 'var(--topbar-height)' }}
       >
-        <a href="">
+        <a href="https://github.com/Deadpool2701/react-firebase">
           <img src={brandLogo} alt="AlterClass" width={150} />
         </a>
         <div className="flex items-center">
