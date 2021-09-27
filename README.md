@@ -1,3 +1,9 @@
+This is a secure messaging app where your messages are protected by a 2-layer image encryption, this means that if a 3rd Party intercepts your chats they'll just see some random images in which the actual message will be hidden.
+This is just the first version with basic features but I'll try to update and add more features in time.
+
+Hope you enjoy using it and feel free to contact me regarding any doubts or questions you might have on deadpool012002@gmail.com
+
+Link to the WebApp - `https://6151994e6188b58732e16853--condescending-brown-c32d40.netlify.app/`
 
 
 - `start`: Runs the app in the development mode.
