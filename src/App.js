@@ -10,13 +10,7 @@ import Channel from './components/Channel';
 import Loader from './components/Loader';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCmBf2a2haEzl4tp6_p1cd9W7m3drB_0b4",
-  authDomain: "text4-d5f44.firebaseapp.com",
-  projectId: "text4-d5f44",
-  storageBucket: "text4-d5f44.appspot.com",
-  messagingSenderId: "905855520894",
-  appId: "1:905855520894:web:2d416caf10087572bc082f",
-  measurementId: "G-KMR5ZQ516C"
+  //firebase config
 });
 
 const MoonIcon = props => (
